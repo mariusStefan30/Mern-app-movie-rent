@@ -2,8 +2,7 @@
 ======================
 Practice-project-codewithmosh
 -------------------------------
-https://personal-portofolio-marius-stefan.netlify.app/
-----------------------------------------
+
 React.js/Node.js/MongoDb
 ==============================
 [AboutMe](https://github.com/rex28/About-Me)
